@@ -1,5 +1,8 @@
 # awscli-profile
 
+[![PyPI - Version](https://img.shields.io/pypi/v/awscli-profile)](https://pypi.org/project/awscli-profile/)
+
+
 a simple profile switcher for awscli
 
 # Installation
